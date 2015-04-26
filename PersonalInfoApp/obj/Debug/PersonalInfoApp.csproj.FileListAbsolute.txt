@@ -1,0 +1,9 @@
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe.config
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.pdb
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.PersonalInformationAppUI.resources
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Properties.Resources.resources
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csproj.GenerateResource.Cache
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.exe
+E:\SEIP Training\HomePractice\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.pdb
