@@ -8,6 +8,7 @@ namespace PersonalInfoApp
 {
     class sample
     {
-
+        private string firstname;
+        private string lastName;
     }
 }
